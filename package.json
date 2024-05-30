@@ -6,7 +6,8 @@
   "publishConfig":{"registry":"https://soleng.jfrog.io/artifactory/api/npm/ghjfdemo-ghjf-npm-virt/"},
   "scripts": {
     "dev": "nodemon ./index.js",
-    "ui": "browser-sync start --config bs-config.js"
+    "ui": "browser-sync start --config bs-config.js",
+    "test": "echo \"Error: no test specified\""
   },
   "keywords": [],
   "author": "",
