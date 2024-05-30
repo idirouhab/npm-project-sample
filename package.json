@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://soleng.jfrog.io/artifactory/api/npm/ghjfdemo-ghjf-npm-virt/"
+    "registry": "https://idirotest.jfrog.io/artifactory/api/npm/npm-project-sample-npm/"
   },
   "scripts": {
     "dev": "nodemon ./index.js",
